@@ -17,7 +17,7 @@ namespace Array_Code
             {
 
 
-                Console.WriteLine("Element Value: " + array[i]);
+                Console.WriteLine("Element Value: " + array[i]); //displays value
             }
         }
     }
